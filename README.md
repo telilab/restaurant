@@ -2,10 +2,10 @@
 This is a midterm assignment for Netcentric computing.
 
 
-Rubric for the assignmen:
+Rubric for the assignment:
 •	At least 5 pages
 
-•	At least 1 formThe form makes sense
+•	At least 1 form The form makes sense
 
 •	The site has consistent styleUses bootstrap
 
