@@ -4,9 +4,13 @@ This is a midterm assignment for Netcentric computing.
 
 Rubric for the assignmen:
 •	At least 5 pages
+
 •	At least 1 formThe form makes sense
+
 •	The site has consistent styleUses bootstrap
+
 •	Uses Navigation Bar
+
 •	Considers the user for navigation
 •	Accessible with https://xxxx.herokuapp.com/restaurant/Uses images
 •	It does not exaggerates the colors
