@@ -15,12 +15,13 @@ Rubric for the assignmen:
 •	Subjective appreciation of the appearance and organization
 
 Things that must be in the website:
-Location Where
-Menu
-Specials 
-Order using a form
-Input credit card
-Pictures of menu
-Send questions through form
-Always return home
-Easy to order
+•	Location Where
+•	Menu
+•	Specials 
+•	Order using a form
+•	Input credit card
+•	Pictures of menu
+•	Send questions through form
+•	Always return home
+•	Easy to order
+
