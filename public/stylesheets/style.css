@@ -1,8 +1,202 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+body, html {
+  background-color: white;
+  height: 100%;
+}
+.col {
+  margin: 3pt;
+}
+.nav-bar {
+  top: 0;
+  right: 0vmax;
+  left: 0vmax;
+  height: 7vmax;
+  position: fixed;
+  background-color: #2c3258;
+  /*border: 1px solid black;*/
+  transition: .4s;
+}
+.nav-bar-btn {
+  border-radius: 7px;
+  border-color: #2c3258;
+  background-color: white;
+  padding-top: 15px;
+  margin: 2%;
+  height: 3vmax;
+  width: 5px;
+  color: black;
+  z-index: 1;
+  transition: .7s;
 }
 
-a {
-  color: #00B7FF;
+.nav-bar-btn:hover {
+  background-color: #F5FFFA;
+  border: 1px solid black;
+  color: #2c3258;
+  padding-top: 10px;
+  font-size: 18pt;
+  z-index: 2;
+  transform: scale(1.2);
+}
+.links-to-pages {
+  border-radius: 7px;
+  background-color: white;
+  margin: 2%;
+  height: 55%;
+  width: 55%;
+  color: black;
+  transition: .7s;
+}
+.links-to-pages:hover {
+  background-color: #2c3258;
+  color: white;
+  font-size: 18pt;
+  transform: scale(1.2);
+}
+
+.food-item {
+  border-radius: 7px;
+  /*background-color: red;*/
+  margin: 2%;
+  height: 100px;
+  width: 55px;
+  color: black;
+  z-index: 1;
+  transition: .7s;
+}
+.food-item:hover {
+  /*background-color: #2c3258;*/
+  color: white;
+  font-size: 18pt;
+  z-index: 2;
+  transform: scale(1.75);
+}
+
+/*********************************************Image classes *******************************************************************/
+.img:hover {
+  transform: scale(1.1);
+  transition: .7s;
+}
+
+.bg-seattle{
+  background-image: url("../images/seattle.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+.bg-index {
+  background-image: url("../images/bg-img.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.map {
+  background-image: url("../images/map.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+/*MAIN COURSE/ SPECIALS*/
+.food-img-chicken {
+  background-image: url("../images/chicken.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-pizza {
+  background-image: url("../images/pizza.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-steak {
+  background-image: url("../images/steak.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-burger2 {
+  background-image: url("../images/burger2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*SIDES*/
+.food-img-fries {
+  background-image: url("../images/fries.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.food-img-dumplings {
+  background-image: url("../images/dumplings.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-bread {
+  background-image: url("../images/bread.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-soup {
+  background-image: url("../images/soup.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*Desserts*/
+.food-img-icecream1 {
+  background-image: url("../images/icecream.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-icecream2 {
+  background-image: url("../images/icecream2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-cupcake {
+  background-image: url("../images/cupcake.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-cake {
+  background-image: url("../images/cake.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*DRINKS*/
+.food-img-shake1 {
+  background-image: url("../images/shake1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-juice {
+  background-image: url("../images/juice.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-coffee {
+  background-image: url("../images/coffee.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.food-img-lemonade {
+  background-image: url("../images/lemonade.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

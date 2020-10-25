@@ -28,45 +28,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af14c715-5f40-460e-b96c-66a47fb8a185" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bg-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bread.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/burger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/burger2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/chicken.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cupcake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/dumplings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/fries.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icecream.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icecream2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/juice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/lemonade.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pizza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shake1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/soup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/steak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/error.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/seattle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +89,13 @@
       <command value="python" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -131,7 +108,7 @@
       <workItem from="1603524606759" duration="28000" />
       <workItem from="1603524695982" duration="20700000" />
       <workItem from="1603590620407" duration="5986000" />
-      <workItem from="1603599728585" duration="1399000" />
+      <workItem from="1603599728585" duration="15460000" />
     </task>
     <servers />
   </component>
@@ -162,29 +139,33 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1272" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603524617944" />
-    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603594475108">
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603620055248">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603594475108" />
-    <state width="1626" height="245" key="GridCell.Tab.0.bottom" timestamp="1603601151945">
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603620055248" />
+    <state x="-1820" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1603619392686">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1626" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603601151945" />
+    <state x="-1820" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603619392686" />
+    <state width="1627" height="245" key="GridCell.Tab.0.bottom" timestamp="1603622713485">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1627" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603622713485" />
     <state width="1049" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1603519096698" />
-    <state width="1626" height="245" key="GridCell.Tab.0.center" timestamp="1603601151942">
+    <state width="1627" height="245" key="GridCell.Tab.0.center" timestamp="1603622713483">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1626" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603601151942" />
+    <state width="1627" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603622713483" />
     <state width="1049" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1603519096696" />
-    <state width="1626" height="245" key="GridCell.Tab.0.left" timestamp="1603601151940">
+    <state width="1627" height="245" key="GridCell.Tab.0.left" timestamp="1603622713481">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1626" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603601151940" />
+    <state width="1627" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603622713481" />
     <state width="1049" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1603519096696" />
-    <state width="1626" height="245" key="GridCell.Tab.0.right" timestamp="1603601151944">
+    <state width="1627" height="245" key="GridCell.Tab.0.right" timestamp="1603622713484">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1626" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603601151944" />
+    <state width="1627" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603622713484" />
     <state width="1049" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1603519096697" />
     <state x="-1615" y="107" key="SettingsEditor" timestamp="1603524961193">
       <screen x="-1920" y="0" width="1920" height="1080" />
